@@ -1,8 +1,7 @@
 # Data analysis
-- Document here the project: toolbox
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Document the project: toolbox
+- Description: storage for bits of code to reuse in the future
+
 
 Please document the project the better you can.
 
